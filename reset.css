@@ -1,5 +1,6 @@
 :root {
     --background: #ffffff;
+    --overlay: #fafafa;
     --main: #4d533c;
     --axent: #ffd723;
     --light-axent: #ffd7231a;
@@ -7,6 +8,9 @@
     --link: #d4d6d4;
     --button: #f5f6f7;
     --profession: #152934;
+    --footer-text: #b6c197;
+    --footer-line: #5d6544;
+    --footer-button: #444a34;
 }
 
 h1, h2, h3, h4, p, a, button, ul, li, body {

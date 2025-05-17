@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>facebook</title>
+	<style>
+		.s0 { fill: #5e6648 } 
+	</style>
+	<g id="icomoon-ignore">
+	</g>
+	<path class="s0" d="m304 96h80v-96h-80c-61.8 0-112 50.2-112 112v48h-64v96h64v256h96v-256h80l16-96h-96v-48c0-8.7 7.3-16 16-16z"/>
+</svg>
