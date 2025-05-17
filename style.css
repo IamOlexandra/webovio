@@ -429,7 +429,7 @@
         left: -15px;
     }
 }
-@media (max-width: 1069px) {
+@media (max-width: 1070px) {
     .booking-image {
         position: static;
         max-width: 100%;
